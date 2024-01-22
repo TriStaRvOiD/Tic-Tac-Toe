@@ -14,7 +14,13 @@ export_presets.cfg
 data_*/
 mono_crash.*.json
 
+# Release files
 .apk
+.app
+.dmg
+.exe
+
+.pck
 
 #MacOS
 .DS_Store
