@@ -9,7 +9,7 @@ A simple Tic Tac Toe game made using Godot, through [this](https://www.youtube.c
 ## Installation
 
 1. Clone the repository to your local machine:
-```git clone https://github.com/your-username/your-repository.git```
+```git clone https://github.com/TriStaRvOiD/Tic-Tac-Toe.git```
 
 2. Open Godot Engine and import the project:
 
